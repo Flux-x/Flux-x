@@ -20,7 +20,7 @@ Hey, I'm **fluxx**. Independent developer building low-overhead systems tools, g
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/femboi-firewall">femboi-firewall</a></h3>
-      <p>High-performance multi-layer DDoS mitigation engine & Dear ImGui panel for Linux game servers. Wire-speed packet drops via eBPF/XDP driver offload, dynamic nftables ban sets, and L7 DPI.</p>
+      <p>Linux game server firewall with eBPF/XDP packet filtering, nftables rules, and an ImGui panel.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Linux-eBPF%20%2F%20XDP-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -29,7 +29,7 @@ Hey, I'm **fluxx**. Independent developer building low-overhead systems tools, g
     </td>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/hwid-spoofer">hwid-spoofer</a></h3>
-      <p>Standalone Windows hardware identifier inspection, deterministic identity spoofing, and full registry/firmware rollback utility (MachineGuid, MAC, SMBIOS UUID, serials).</p>
+      <p>Windows hardware ID spoofer and rollback tool (MachineGuid, MAC, SMBIOS UUID, volume serials).</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" />
@@ -40,7 +40,7 @@ Hey, I'm **fluxx**. Independent developer building low-overhead systems tools, g
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/game-net-tool">game-net-tool</a></h3>
-      <p>Multi-threaded TCP network diagnostic, socket throughput benchmark, and latency probing tool tailored for Source Engine 1 (27015) and Minecraft (25565) game servers.</p>
+      <p>Multi-threaded TCP network diagnostic, latency probing, and socket benchmark tool for game servers.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Socket-Winsock2-0078D6?style=flat-square" />
@@ -49,7 +49,7 @@ Hey, I'm **fluxx**. Independent developer building low-overhead systems tools, g
     </td>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/VirtualPiano-Auto-Player">VirtualPiano-Auto-Player</a></h3>
-      <p>Polyphonic sheet music automation player with microsecond timing accuracy, humanized velocity jitter, dynamic BPM tempo scaling, and OBS screen capture invisibility.</p>
+      <p>AutoHotkey sheet music player with microsecond timing accuracy, humanized velocity, and OBS stream-safe overlay.</p>
       <p>
         <img src="https://img.shields.io/badge/Language-AutoHotkey-334455?style=flat-square" />
         <img src="https://img.shields.io/badge/Privacy-WDA%20Stream--Safe-9c27b0?style=flat-square" />
