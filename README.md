@@ -1,20 +1,21 @@
 <div align="left">
+  <img align="right" width="140" src="assets/mascot.gif" alt="mascot" />
   
-  # Hey, I'm fluxx! ⚡
-
-  *Low-level developer & systems enthusiast.*
-
+  # Hey, I'm fluxx
+  
+  > *Low-level developer & systems enthusiast.*
+  
   I focus on performance-critical software, Windows internals, Linux packet filtering (**eBPF / XDP**), reverse engineering, and game server infrastructure, mostly in **C++20**, **C**, and **Python**.
 </div>
 
 <br/>
 
-### ⭐ Featured Projects
+### > Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🛡️ <a href="https://github.com/Flux-x/femboi-firewall">femboi-firewall</a></h3>
+      <h3 align="left">> <a href="https://github.com/Flux-x/femboi-firewall">femboi-firewall</a></h3>
       <p>Multi-tier DDoS mitigation engine & Dear ImGui control panel for Linux game and web servers with driver-level eBPF/XDP packet drops, nftables, and L7 DPI.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=c%2B%2B" />
@@ -23,7 +24,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎭 <a href="https://github.com/Flux-x/hwid-spoofer">hwid-spoofer</a></h3>
+      <h3 align="left">> <a href="https://github.com/Flux-x/hwid-spoofer">hwid-spoofer</a></h3>
       <p>Standalone Windows hardware identifier inspection, deterministic spoofing, and full registry restore tool (MachineGuid, MAC, SMBIOS UUID, serials).</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
@@ -34,7 +35,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ <a href="https://github.com/Flux-x/game-net-tool">game-net-tool</a></h3>
+      <h3 align="left">> <a href="https://github.com/Flux-x/game-net-tool">game-net-tool</a></h3>
       <p>High-performance Windows TCP network diagnostic, socket throughput benchmark, and latency probe utility for Source Engine 1 and Minecraft servers.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
@@ -43,7 +44,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎹 <a href="https://github.com/Flux-x/VirtualPiano-Auto-Player">VirtualPiano-Auto-Player</a></h3>
+      <h3 align="left">> <a href="https://github.com/Flux-x/VirtualPiano-Auto-Player">VirtualPiano-Auto-Player</a></h3>
       <p>Polyphonic sheet music playback player with natural humanized timing jitter, dynamic tempo scaling, and stream/OBS screen capture invisibility.</p>
       <p>
         <img src="https://img.shields.io/badge/Language-AutoHotkey-334455?style=flat-square" />
@@ -56,7 +57,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Tooling
+### > Tech Stack & Tooling
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-20%20%2F%2017-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -71,7 +72,7 @@
 
 <br/>
 
-### 📊 GitHub Activity & Statistics
+### > Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flux-x&show_icons=true&title_color=ff3366&text_color=e0e0e8&icon_color=ffd700&bg_color=0b0b12&border_color=252538&hide_border=false" height="165" />
