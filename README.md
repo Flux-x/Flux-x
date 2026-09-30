@@ -1,33 +1,18 @@
-<div align="center">
-  <img src="assets/mascot.gif" width="135" alt="mascot" /><br/>
-  
-  # Hello World! // fluxx
-  
-  <p><code>Low-Level Systems</code> · <code>Reverse Engineering</code> · <code>Game Security & Networking</code></p>
+# Hello World! // fluxx
 
-  <p>
-    <img src="https://img.shields.io/github/followers/Flux-x?label=Followers&style=flat-square&color=ff3366" />
-    <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20C%20%2F%20Asm-00599C?style=flat-square" />
-    <img src="https://img.shields.io/badge/Kernel-Linux%20eBPF%20%2F%20Win32-FCC624?style=flat-square&logoColor=black" />
-    <img src="https://img.shields.io/badge/Status-Building%20Things-green?style=flat-square" />
-  </p>
-</div>
+<img align="right" width="140" src="assets/mascot.gif" alt="mascot" />
 
----
+Hey, I'm **fluxx**. Independent developer building low-overhead systems tools, game utilities, and network software — mostly working with C++, Windows internals, and Linux packet filtering.
 
-### > About Me
+<p>
+  <a href="https://github.com/Flux-x?tab=repositories"><img src="https://img.shields.io/github/followers/Flux-x?label=Followers&style=flat-square&color=ff3366" /></a>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B%20%7C%20C-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-252538?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building-green?style=flat-square" />
+</p>
 
-```c++
-struct Developer {
-    const char* handle   = "fluxx";
-    const char* focus    = "Low-level C++, Windows Internals, Linux eBPF/XDP";
-    const char* stack[]  = { "C++20", "C", "x86_64 Asm", "Python", "TypeScript", "Lua" };
-    const char* tools[]  = { "IDA Pro", "x64dbg", "Dear ImGui", "Winsock2", "nftables" };
-    bool open_to_collab  = true;
-};
-```
-
----
+<br clear="right"/>
+<br/>
 
 ### > Featured Projects
 
@@ -74,7 +59,7 @@ struct Developer {
   </tr>
 </table>
 
----
+<br/>
 
 ### > Tech Stack & Arsenal
 
@@ -102,9 +87,9 @@ struct Developer {
   <img src="https://img.shields.io/badge/VCS-Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
----
+<br/>
 
-### > GitHub Analytics
+### > Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flux-x&show_icons=true&title_color=ff3366&text_color=e0e0e8&icon_color=ffd700&bg_color=0b0b12&border_color=252538&hide_border=false" height="165" />
@@ -117,8 +102,10 @@ struct Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flux-x&theme=dark&background=0b0b12&border=252538&stroke=ff3366&ring=ffd700&fire=ff3366&currStreakLabel=ff3366" height="150" />
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-  <sub>✦ Crafted with C++, coffee, and low-level curiosity ✦</sub>
+  <sub>✦ Open to collaboration, issues, and discussions across repositories ✦</sub>
 </div>
