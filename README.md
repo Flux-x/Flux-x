@@ -1,13 +1,12 @@
-<div align="left">
-  <img align="right" width="140" src="assets/mascot.gif" alt="mascot" />
-  
-  # Hey, I'm fluxx
-  
-  > *Low-level developer & systems enthusiast.*
-  
-  I focus on performance-critical software, Windows internals, Linux packet filtering (**eBPF / XDP**), reverse engineering, and game server infrastructure, mostly in **C++20**, **C**, and **Python**.
-</div>
+# Hey, I'm fluxx
 
+<img align="right" width="150" src="assets/mascot.gif" alt="mascot" />
+
+> *Low-level developer & systems enthusiast.*
+
+I focus on performance-critical software, Windows internals, Linux packet filtering (**eBPF / XDP**), reverse engineering, and game server infrastructure, mostly in **C++20**, **C**, and **Python**.
+
+<br clear="right"/>
 <br/>
 
 ### > Featured Projects
