@@ -2,9 +2,7 @@
 
 <img align="right" width="150" src="assets/mascot.gif" alt="mascot" />
 
-> *Low-level developer & systems enthusiast.*
-
-I focus on performance-critical software, Windows internals, Linux packet filtering (**eBPF / XDP**), reverse engineering, and game server infrastructure, mostly in **C++20**, **C**, and **Python**.
+Building low-level tools, tinkering with C++ & Windows internals, and writing network stuff.
 
 <br clear="right"/>
 <br/>
@@ -15,7 +13,7 @@ I focus on performance-critical software, Windows internals, Linux packet filter
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/femboi-firewall">femboi-firewall</a></h3>
-      <p>Multi-tier DDoS mitigation engine & Dear ImGui control panel for Linux game and web servers with driver-level eBPF/XDP packet drops, nftables, and L7 DPI.</p>
+      <p>DDoS mitigation engine & ImGui panel for Linux game servers with eBPF/XDP and nftables.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Linux-eBPF%20%2F%20XDP-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -24,7 +22,7 @@ I focus on performance-critical software, Windows internals, Linux packet filter
     </td>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/hwid-spoofer">hwid-spoofer</a></h3>
-      <p>Standalone Windows hardware identifier inspection, deterministic spoofing, and full registry restore tool (MachineGuid, MAC, SMBIOS UUID, serials).</p>
+      <p>Windows hardware ID spoofer and backup/restore tool (MachineGuid, MAC, SMBIOS).</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" />
@@ -35,7 +33,7 @@ I focus on performance-critical software, Windows internals, Linux packet filter
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/game-net-tool">game-net-tool</a></h3>
-      <p>High-performance Windows TCP network diagnostic, socket throughput benchmark, and latency probe utility for Source Engine 1 and Minecraft servers.</p>
+      <p>TCP connection benchmark and latency test tool for Source Engine 1 & Minecraft servers.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B" />
         <img src="https://img.shields.io/badge/Socket-Winsock2-0078D6?style=flat-square" />
@@ -44,7 +42,7 @@ I focus on performance-critical software, Windows internals, Linux packet filter
     </td>
     <td width="50%" valign="top">
       <h3 align="left">> <a href="https://github.com/Flux-x/VirtualPiano-Auto-Player">VirtualPiano-Auto-Player</a></h3>
-      <p>Polyphonic sheet music playback player with natural humanized timing jitter, dynamic tempo scaling, and stream/OBS screen capture invisibility.</p>
+      <p>Virtual Piano auto player with humanized timing, dynamic tempo, and OBS screen capture hide.</p>
       <p>
         <img src="https://img.shields.io/badge/Language-AutoHotkey-334455?style=flat-square" />
         <img src="https://img.shields.io/badge/Privacy-WDA%20Stream--Safe-9c27b0?style=flat-square" />
@@ -82,12 +80,4 @@ I focus on performance-critical software, Windows internals, Linux packet filter
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flux-x&theme=dark&background=0b0b12&border=252538&stroke=ff3366&ring=ffd700&fire=ff3366&currStreakLabel=ff3366" height="150" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Open to collaboration, issues, and discussions across repositories.</sub>
 </div>
